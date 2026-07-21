@@ -117,3 +117,4 @@ After completing this lab, you will understand how to:
 ## Result
 
 A Human-in-the-Loop (HITL) agent was successfully implemented in Google Colab. The agent generated an email draft using the Groq language model and paused execution until the user reviewed the content and typed **APPROVED**, demonstrating a simple but effective human approval mechanism before completing the action.
+
