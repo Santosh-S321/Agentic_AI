@@ -141,12 +141,3 @@ Through this project, I learned how to:
 - Manage API keys securely using `.env`
 - Connect Groq LLMs with LangChain
 
----
-
-## Author
-
-Santosh S
-
-Garden City University
-
-Course: Agentic AI Laboratory
